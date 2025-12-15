@@ -32,7 +32,7 @@ acme/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/acme.git
+   git clone https://github.com/yucathy/acme-web-design.git
    ```
 
 2. Open `index.html` in your web browser:
